@@ -6,7 +6,11 @@
 
 using namespace std;
 
+/**
+A Mounty Hall simulation program
+Written by Victor Viglianti
 
+**/
 
 int main()
 {
