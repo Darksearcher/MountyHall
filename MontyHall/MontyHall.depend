@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1402775203 source:e:\libraries\documents\work\interview prep\montyhall\main.cpp
+	<iostream>
+	<Door.h>
+	<Gameshow.h>
+	<stdlib.h>
+	<time.h>
+
+1402775279 e:\libraries\documents\work\interview prep\montyhall\include\door.h
+
+1402775403 e:\libraries\documents\work\interview prep\montyhall\include\gameshow.h
+	<Door.h>
+	<Random.h>
+
+1402775357 source:e:\libraries\documents\work\interview prep\montyhall\src\door.cpp
+	"Door.h"
+
+1402775679 source:e:\libraries\documents\work\interview prep\montyhall\src\gameshow.cpp
+	"GameShow.h"
+
+1402614067 e:\libraries\documents\work\interview prep\montyhall\include\random.h
+
+1402614103 source:e:\libraries\documents\work\interview prep\montyhall\src\random.cpp
+	"Random.h"
+	<stdlib.h>
+	<time.h>
+
